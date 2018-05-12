@@ -1,10 +1,16 @@
 _repo: Some-Recollections-of-our-Antislavery-Conflict_50313
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50313-h/images/cover.jpg
 creator:
   author:
     agent_name: May, Samuel J.
     gutenberg_agent_id: '45815'
     url: http://www.gutenberg.org/2009/agents/45815
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50313#Some-Recollections-of-our-Antislavery-Conflict
 gutenberg_issued: '2015-10-26'
 gutenberg_type: Text
 identifiers:
